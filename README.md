@@ -22,7 +22,7 @@
 
 ## 📚 Wiki & Documentation
 
-Interested? You can find more details about each hatch and how they work for developers on the [Wiki](https://github.com/MMCE-Addons/wiki).
+Interested? You can find more details about each hatch and how they work for developers on the [Wiki](https://github.com/Alecsioo/MMCE-Addons/wiki).
 
 ---
 
